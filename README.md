@@ -1,25 +1,34 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hey%20-%20I'm%20Chandan%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</div>
+<h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
+<h3 align="center">Blockchain Developer • Full Stack Developer • StudyOrbit Creator</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/chandankumar34/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:chandan9a15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Chandan1525&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Learner;Building+StudyOrbit;Always+Learning+New+Things" />
+</p>
 
-<br>
+---
 
-```javascript
-const chandan = {
-  focus:     ["Full-Stack Web Development", "Scalable Systems", "Blockchain"],
-  stack:     ["React.js", "Next.js", "Node.js", "MongoDB", "JavaScript"],
-  building:  ["StudyOrbit", "KIIT Nexus Platform"],
-  community: "Coordinating KIIT Nexus & Mentoring Juniors",
-  currently: "Preparing B.Tech Thesis & Open to SDE/Web3 Internships"
-}
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,ts,js,tailwind,firebase,solidity,cpp,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandan1525&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan1525&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandan1525&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
